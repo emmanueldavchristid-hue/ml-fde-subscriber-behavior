@@ -1,0 +1,23 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Données potentiellement volumineuses ou sensibles
+*.csv
+*.txt
+*.xlsx
+*.xls
+*.zip
+*.parquet
+
+# Environnements
+.venv/
+venv/
+env/
+
+# Secrets
+.env
+
+# OS
+.DS_Store
+Thumbs.db
